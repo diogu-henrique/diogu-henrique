@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👨‍💻 Diogo Mendes
 
-<!--
-**diogu-henrique/diogu-henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Enfermeiro | Doutorando em Saúde Pública | Estatística & Ciência de Dados | R, Python, Power BI, SQL | Análise Espacial**
 
-Here are some ideas to get you started:
+Sou Diogo Henrique Mendes da Silva, bacharel em Enfermagem com especialização em Saúde Coletiva. Atualmente, curso Doutorado em Saúde Pública e uma pós-graduação em Estatística para Ciência de Dados. Tenho interesse em análise de dados, modelagem estatística, ciência de dados e visualização de informações, com experiência em linguagens como R e Python, além do uso de Power BI e SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Habilidades Técnicas
+
+- **Linguagens:** R, Python, SQL  
+- **Ferramentas de visualização:** Power BI, ggplot2, matplotlib, seaborn  
+- **Estatística & Modelagem:** Modelos lineares, regressão logística, modelos espaciais (CAR/BYM), análise exploratória  
+- **Análise Espacial:** QGIS, SaTScan, GeoDa  
+- **Manipulação de dados:** pandas, numpy, dplyr, tidyr
+
+### 📂 Projetos
+
+### 🎓 Formação Acadêmica
+
+- Doutorado em Saúde Pública (em andamento)  
+- Pós-graduação em Estatística para Ciência de Dados (em andamento)  
+- Residência em Saúde Coletiva  
+- Bacharelado em Enfermagem
+
+### 📫 Contato
+
+- 📧 Email: diogohenrique686@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/diogo-mendes-48abb212b/)  
+- 💻 [Currículo Lattes](http://lattes.cnpq.br/4818901151705563)  
